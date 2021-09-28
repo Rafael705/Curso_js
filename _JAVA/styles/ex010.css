@@ -1,0 +1,35 @@
+*{
+    font-family: sans-serif;
+}
+
+section{
+    text-align: center;
+    background: #cfcfcf;
+    margin: 50px auto;
+    width:500px;
+    border-radius:8px;
+    box-shadow: 0 0 15px rgb(0, 0, 0);
+    padding:2.0rem;
+}
+
+body{
+    background: rgb(67, 54, 189);
+}
+.toast{
+    background:red;
+    padding:1px;
+    width:300px;
+    border-radius:4px;
+    color:#fefefe;
+    box-shadow:0 0 4px rgba(0,0,0,.6);
+    position:absolute;
+    left:50%;
+    transform:translateX(-50%);
+    top:-100%;
+    
+    transition:.2s;
+
+}
+.toast.aparece{
+    top:10%;
+}

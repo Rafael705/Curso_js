@@ -1,0 +1,10 @@
+div#area{
+            
+    font: lighter 18pt Ariel;
+    background: rgba(0, 0, 0, 0.904);
+    color: whitesmoke;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+/* *{ */
+    /* background:#2dff04d0;
+    color:#00ff15; */
+/* } */
+
+body{
+    color: white;
+    font: normal 15pt Ariel;
+    
+}
+
+h1{
+    box-shadow: 0 0 0 8 rgb(black);
+    margin: 50px auto;
+    width:500px;
+    border-radius: 10%;
+    padding: 1.5rem;
+    color: black
+}
